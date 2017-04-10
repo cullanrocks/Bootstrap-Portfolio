@@ -1,0 +1,38 @@
+
+/*****
+.col-md-12 {
+	text-align: center;
+	max-width: 100%;
+}
+.panel panel-default {
+	max-width: 100%
+}
+*******/
+.img {
+	max-width: none;
+	min-width: 0%;
+}
+.sidebar {
+    float: right;
+    width: 270px;
+    padding: 30px;
+    margin-bottom: 20px;
+    background: #fff;
+    border: 1px solid #ddd;
+}.panel panel-default {
+    float: right;
+    width: 270px;
+    padding: 30px;
+    margin-bottom: 20px;
+    background: #fff;
+    border: 1px solid #ddd;	
+}
+
+
+
+
+}
+@media (min-width: 992px){}
+.col-md-8 {
+    width: 66.66666667%;
+}
